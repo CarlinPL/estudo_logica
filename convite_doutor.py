@@ -10,4 +10,3 @@ if nota >= 8.5:    # Se nota for MAIOR ou IGUAL a 8.5
 else:
     print('Sinto Muito, sua nota não foi o suficiente') # Se não for MAIOR ou IGUAL a 8.5, informa que a nota não foi o suficiente.
 
-    #comentario teste
